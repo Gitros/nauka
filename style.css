@@ -1,0 +1,18 @@
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+nav a {
+  color: #00bff3;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+nav a:focus {
+  background-color: #f0c808;
+  color: black;
+}
+nav a:hover {
+  color: #ff583d;
+}
