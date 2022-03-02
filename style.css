@@ -1,3 +1,9 @@
+nav {
+  border: 1px solid #333;
+  width: 50%;
+  margin: 1rem auto;
+  padding: ;
+}
 nav ul {
   list-style-type: none;
   padding: 0;
@@ -8,6 +14,9 @@ nav a {
   text-decoration: none;
   font-size: 1.5rem;
   font-weight: 600;
+}
+nav li:hover {
+  background-color: #f0c808;
 }
 nav a:focus {
   background-color: #f0c808;
